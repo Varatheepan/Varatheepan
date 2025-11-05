@@ -10,7 +10,7 @@
 I’m passionate about bridging the gap between **AI algorithms and efficient hardware implementation**.  
 My journey began with developing embedded IoT solutions and evolved into **machine learning model design**, **optimization**, and **hardware-aware deployment**.
 
-- 💻 Experience with **ML pipelines**, **embedded firmware**, and **FPGA-based digital design**  
+- 💻 Experience with **Agentic AI** **Multi-DNN Workload Optimization** **ML pipelines**, **embedded firmware**, and **FPGA-based digital design**  
 - 🔍 Always exploring how software and hardware co-design can make ML more efficient and adaptable
 
 
